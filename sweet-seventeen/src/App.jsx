@@ -108,7 +108,7 @@ function Splash({ units, onPlay }) {
           </div>
         ))}
       </div>
-      <div style={{ fontWeight: 300, letterSpacing: '.2em', fontSize: 14, color: '#9FB0E6', textAlign: 'center' }}>COUNTDOWN TO 25 OCTOBER 2026 · 00:00 LOCAL TIME</div>
+      <div style={{ fontWeight: 300, letterSpacing: '.2em', fontSize: 14, color: '#9FB0E6', textAlign: 'center' }}>COUNTDOWN TO 25 OCTOBER 2026 · 01:00 LOCAL TIME</div>
       <button className="btn" onClick={onPlay} style={{ background: '#E9C46A', border: 0, color: '#0A1330', fontWeight: 500, fontSize: 13 }}>PREVIEW ANIMATION</button>
     </div>
   )
