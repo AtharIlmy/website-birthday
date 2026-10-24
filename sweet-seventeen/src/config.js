@@ -9,8 +9,8 @@ export const MUSIC_FILE = '/music/birthday-song.mp3'
 export const VIDEO_FILE = '/videos/WhatsApp%20Video%202026-10-24%20at%2022.41.58%20%281%29.mp4'
 export const GALLERY_VIDEO_FILE = '/videos/WhatsApp%20Video%202026-10-24%20at%2022.41.58%20%282%29.mp4'
 
-// 25 Oct 2026 01:00 local time (= 24 Oct 2026 18:00 UTC)
-export const TARGET = Date.UTC(2026, 9, 24, 18, 0, 0)
+// 25 Oct 2026 00:30 local time (= 24 Oct 2026 17:30 UTC)
+export const TARGET = Date.UTC(2026, 9, 24, 17, 30, 0)
 
 // Original photos shown alongside the twins' names
 export const TWIN_PHOTOS = ['/photos/1.jpeg', '/photos/2.jpeg']
